@@ -3,7 +3,7 @@
 ## install
 
 ```bash
-component install isDocument
+component install ramitos/isDocument
 ```
 
 ## api
