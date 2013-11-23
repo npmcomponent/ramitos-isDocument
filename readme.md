@@ -1,4 +1,4 @@
-# isWindow
+# isDocument
 
 ## install
 
