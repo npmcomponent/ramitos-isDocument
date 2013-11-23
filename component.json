@@ -1,0 +1,13 @@
+{
+  "name": "isDocument",
+  "version": "0.0.1",
+  "description": "check if an element is document",
+  "repo": "ramitos/isDocument",
+  "keywords": ["documet", "isDocument"],
+  "homepage": "https://github.com/ramitos/isDocument",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/isDocument.js",
+  "scripts": ["src/isDocument.js"]
+}
