@@ -9,7 +9,7 @@ component install isDocument
 ## api
 
 ```js
-var isWindow = require('isDocument')
+var isDocument = require('isDocument')
 
 isDocument(document) // => true
 isDocument(window) // => false
