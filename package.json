@@ -1,0 +1,12 @@
+{
+  "name": "ramitos-isdocument",
+  "description": "check if an element is document",
+  "version": "0.0.1",
+  "keywords": [
+    "documet",
+    "isDocument"
+  ],
+  "main": "src/isDocument.js",
+  "dependencies": {},
+  "license": "MIT"
+}
